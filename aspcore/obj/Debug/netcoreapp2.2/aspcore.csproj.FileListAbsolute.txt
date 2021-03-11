@@ -28,3 +28,8 @@ H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\aspcore.Views.pdb
 H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\aspcore.dll
 H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\aspcore.pdb
 H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\aspcore.csproj.CopyComplete
+H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+H:\workspace\aspcore\aspcore\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
